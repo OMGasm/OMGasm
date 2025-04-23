@@ -2,7 +2,7 @@
 - [CTF Writeups](../../../Writeups-n-stuff) 🥺👉👈 🔨💻🔓
 - [File eraser?](../../../rust-removal-wipe)
 - [Dancepad firmware](../../../HID-Dancepad) <sub>though i may have broken it at some point ~~may be cursed~~<sub>
-- [old discord bot](../../../old-discordbot-dotnet47) - 100% unmaintained
+- [old discord bot](../../../old-discordbot-dotnet47) - no longer unmaintained
 
 ### Cursed stuff :shipit:
 - [C# Options](../../../csharp-options) - it... exists
