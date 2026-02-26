@@ -1,3 +1,5 @@
+Migrating to [codeberg](https://codeberg.org/OMGasm) :)
+
 ### Not so cursed stuff
 - [CTF Writeups](../../../Writeups-n-stuff) 🥺👉👈 🔨💻🔓
 - [File eraser?](../../../rust-removal-wipe)
